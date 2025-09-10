@@ -1,5 +1,5 @@
-# 💫 About Me:
-Olá, meu nome é Kallyne Melo.<br>Sou formada em biologia pela UFPE, mas estou fazendo transição de carreira para a área de tecnologia.<br>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Senac.
+# 💫 Sobre mim:
+Olá, meu nome é Kallyne Melo.<br>Sou formada em biologia pela UFPE, mas estou fazendo transição de carreira para a área de tecnologia.<br>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Senac.
 
 
 ## 🌐 Socials:
