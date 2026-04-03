@@ -15,17 +15,9 @@ Me chamo Kallyne Melo, tenho 27 anos e sou natural do Recife-PE. Sou formada em 
    <a href="https://github.com/kallynemelo?tab=repositories">
         <img 
             alt="Repositório" 
-            title="Meus repositórios" 
-            src="https://custom-icon-badges.demolab.com/badge/-Repositórios-28a745?style=for-the-badge&logo=repo&logoColor=white"
+            title="Meus repositório" 
+            src="https://custom-icon-badges.demolab.com/badge/-Repositório-28a745?style=for-the-badge&logo=repo&logoColor=white"
         />
-    </a>
-  <a href="https://www.linkedin.com/in/kallynemelo" target="_blank">
-      <img 
-      alt="LinkedIn" 
-      title="Me siga no LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      />
-  </a>
 </p>
 
 ---
