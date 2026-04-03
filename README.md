@@ -110,16 +110,21 @@ Me chamo Kallyne Melo, tenho 27 anos e sou natural do Recife-PE. Sou formada em 
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    width="48%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kallynemelo&show_icons=true&theme=tokyonight" 
-  />
-
-  <img 
-    alt="Top Languages" 
-    width="48%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kallynemelo&layout=compact&theme=tokyonight" 
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        width="400"
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=kallynemelo&show_icons=true&theme=tokyonight" 
+      />
+    </td>
+    <td align="center">
+      <img 
+        width="400"
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kallynemelo&layout=compact&theme=tokyonight" 
+      />
+    </td>
+  </tr>
+</table>
