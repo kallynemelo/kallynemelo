@@ -1,10 +1,24 @@
-# 👩🏻‍💻 Kallyne
+# 👩🏻‍💻 Kallyne Melo
 
 **`Desenvolvedora Back-end`**
 
-Me chamo Kallyne Melo, tenho 27 anos e sou natural do REcife-PE. Sou formada em Ciência Biológicas - Bacharelado pela UFPE, com pesquisa na área de biotecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAC Pernambuco, atráves do programa "Embarque Digital". Sou apaixonada por tecnologia e com foco em desenvolvimento back-end, utilizando Java, Spring Boot, JavaScript e integração com APIs. Sou movida por aprendizado contínuo e por criar soluções que realmente façam a diferença para a sociedade. 
+Me chamo Kallyne Melo, tenho 27 anos e sou natural do Recife-PE. Sou formada em Ciência Biológicas - Bacharelado pela UFPE, com pesquisa na área de biotecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAC Pernambuco, atráves do programa "Embarque Digital". Sou apaixonada por tecnologia e tenho afinidade pelo desenvolvimento back-end, utilizando Java, Spring Boot e integração com APIs. Sou movida por aprendizado contínuo e por criar soluções que realmente façam a diferença para a sociedade. 
 
 <p align="left">
+    <a href="https://github.com/kallynemelo?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/kallynemelo?color=e74c3c&labelColor=c0392b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+</a>
+   <a href="https://github.com/kallynemelo?tab=repositories">
+        <img 
+            alt="Repositório" 
+            title="Meus repositórios" 
+            src="https://custom-icon-badges.demolab.com/badge/-Repositórios-28a745?style=for-the-badge&logo=repo&logoColor=white"
+        />
+    </a>
   <a href="https://www.linkedin.com/in/kallynemelo" target="_blank">
       <img 
       alt="LinkedIn" 
@@ -12,13 +26,6 @@ Me chamo Kallyne Melo, tenho 27 anos e sou natural do REcife-PE. Sou formada em 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       />
   </a>
-    <a href="https://github.com/kallynemelo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/kallynemelo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
@@ -103,20 +110,16 @@ Me chamo Kallyne Melo, tenho 27 anos e sou natural do REcife-PE. Sou formada em 
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kallynemelo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    width="48%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kallynemelo&show_icons=true&theme=tokyonight" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallynemelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Languages" 
+    width="48%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kallynemelo&layout=compact&theme=tokyonight" 
   />
-
 </p>
