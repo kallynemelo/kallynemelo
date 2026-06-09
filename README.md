@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Kallyne Melo
 
-**`Desenvolvedora Back-end`**
+**`Desenvolvedora Full-Stack`**
 
-Me chamo Kallyne Melo, tenho 27 anos e sou natural do Recife-PE. Sou formada em Ciência Biológicas - Bacharelado pela UFPE, com pesquisa na área de biotecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAC Pernambuco, atráves do programa "Embarque Digital". Sou apaixonada por tecnologia e tenho afinidade pelo desenvolvimento back-end, utilizando Java, Spring Boot e integração com APIs. Sou movida por aprendizado contínuo e por criar soluções que realmente façam a diferença para a sociedade. 
+Me chamo Kallyne Melo, tenho 27 anos e sou natural do Recife-PE. Sou formada em Ciência Biológicas - Bacharelado pela UFPE, com pesquisa na área de biotecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAC Pernambuco, atráves do programa "Embarque Digital". Sou apaixonada por tecnologia e tenho afinidade pelo desenvolvimento back-end e front-end, utilizando React, React Native, MongoDB Java, Spring Boot e integração com APIs. Sou movida por aprendizado contínuo e por criar soluções que realmente façam a diferença para a sociedade. 
 
 <p align="left">
     <a href="https://github.com/kallynemelo?tab=followers">
